@@ -14,6 +14,7 @@ Operations and sales leader from Cape Town, South Africa. I run operations where
 | [sales-control-system](https://github.com/marcdutoit58-max/sales-control-system) | Google Sheets + Apps Script sales performance system: pipeline, follow-ups, rep health |
 | [roofcheck-report-engine](https://github.com/marcdutoit58-max/roofcheck-report-engine) | AI roof report pipeline: homeowner photos + overhead imagery to a branded PDF report |
 | [event-fleet-ops](https://github.com/marcdutoit58-max/event-fleet-ops) | Case study: running 150+ vehicle fleets at global live events |
+| [outreach-engine](https://github.com/marcdutoit58-max/outreach-engine) | Case study: automated outreach pipeline: lead sourcing, personalised demo sites and tracked follow-up |
 
 ## Tools
 Python · JavaScript / Node.js · Google Apps Script · Google Sheets · HTML/CSS · Cloudflare Pages · AI/LLM APIs
